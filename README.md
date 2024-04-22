@@ -13,3 +13,6 @@ This will allow the HR team to be more efficient in processing employee data, an
 [![LICENSE](https://img.shields.io/github/license/MFB-Napier/HR-Advisors.svg?style=flat-square)](https://github.com/MFB-Napier/HR-Advisors/blob/master/LICENSE)
 
 [![Releases](https://img.shields.io/github/release/MFB-Napier/HR-Advisors/all.svg?style=flat-square)](https://github.com/MFB-Napier/HR-Advisors/releases)
+
+# Software Engineering Methods
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/MFB-Napier/HR-Advisors/main.yml?branch=develop)
