@@ -31,7 +31,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.napier.hrAdvisor.SalaryReport</mainClass>
+                            <mainClass>com.napier.hrAdvisor.employee.SalaryReport</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
